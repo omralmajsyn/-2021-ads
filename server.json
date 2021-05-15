@@ -1,0 +1,18 @@
+{
+  "GuideData": {
+
+
+    "AdsController":
+      {
+        "NetworkAds": "Admob",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "InterstitialFacebook": "896539017866402_898710787649225"
+        
+      }
+
+  }
+}
